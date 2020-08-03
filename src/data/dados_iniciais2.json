@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Princípios Herméticos",
+      "link": "https://www.youtube.com/watch?v=QozeVgask_g",
+      "cor": "#941474",
+      "link_extra": {
+        "text": "As 7 leis Universais do Antigo Egito",
+        "url": "https://www.youtube.com/watch?v=fHLr_ipv8yI"
+      },
+      "videos": [
+        {
+          "titulo": "OccultFlix - O Universo oculto do mundo material!",
+          "url": "https://www.youtube.com/watch?v=lHPuH54wuko"
+        },
+        {
+          "titulo": "O Caibalion e os Sete Princípios Herméticos",
+          "url": "https://www.youtube.com/watch?v=tjeQZnAlgLw"
+        },
+        {
+          "titulo": "As 7 Leis Herméticas - O Caibalion",
+          "url": "https://www.youtube.com/watch?v=XxStBvQdSaU"
+        },
+        {
+          "titulo": "Como colocar em pratica os 7 princípios herméticos",
+          "url": "https://www.youtube.com/watch?v=KcsZyrNdhxE"
+        },
+        {
+          "titulo": "O hermetismo e a ciência moderna ",
+          "url": "https://www.youtube.com/watch?v=PuHxRfrhWwE"
+        },
+        {
+          "titulo": "Como usar o princípio hermético do Mentalismo para atrair o que deseja.",
+          "url": "https://www.youtube.com/watch?v=23pG2eWTc6Q"
+        },
+        {
+          "titulo": "Esse é o Conhecimento mais Poderoso do Universo!",
+          "url": "https://www.youtube.com/watch?v=mIa98mf4RAI"
+        },
+        {
+          "titulo": "HERMES TRISMEGISTO E OS SEGREDOS DO ANTIGO EGITO E DA GRÉCIA",
+          "url": "https://www.youtube.com/watch?v=e-F3P4tP16g"
+        }
+      ]
+    },
+    {
+      "titulo": "Meditação",
+      "cor": "#941474",
+      "link_extra": {
+        "text": "Técnicas possíveis de Meditação Oriental",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Para quem acha que não consegue meditar - Quebrando Mitos",
+          "url": "https://www.youtube.com/watch?v=tbK7zr6chS0"
+        },
+        {
+          "titulo": "Glândula Pineal e Abertura de Chakras. O que o Evangelho tem a ver com isso?",
+          "url": "https://www.youtube.com/watch?v=xAiMBeRBl-Y"
+        },
+        {
+          "titulo": "Meditação e os Processos Mentais",
+          "url": "https://www.youtube.com/watch?v=bQd7Zrb9DGM"
+        },
+        {
+          "titulo": "O PODER DA MEDITAÇÃO: 7 Benefícios Extraordinários de MEDITAR",
+          "url": "https://www.youtube.com/watch?v=0uTWzpQ4HL4"
+        },
+        {
+          "titulo": "O que realmente é meditar? Como a mente humana funciona?",
+          "url": "https://www.youtube.com/watch?v=a83EmojkwcQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Fraternidade Branca",
+      "cor": "#941474",
+      "link_extra": {
+        "text": "Os Grandes Mestres Ascencionados",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Fraternidade Branca e Mestres Ascencionados",
+          "url": "https://www.youtube.com/watch?v=5HTNr8fxDYg"
+        },
+        {
+          "titulo": "Os Mestres Ascensionados | Mestres Espirituais #1",
+          "url": "https://www.youtube.com/watch?v=Yr7mMYTsrWM"
+        },
+        {
+          "titulo": "A Grande Fraternidade Branca e os Mestres Ascencionados",
+          "url": "https://www.youtube.com/watch?v=hHHJM2iU7jQ"
+        },
+        {
+          "titulo": "O QUE TODOS DEVERIAM SABER ACERCA DOS MESTRES ASCENSOS",
+          "url": "https://www.youtube.com/watch?v=oy1oJOvzQRQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes - Ocultistas",
+      "cor": "#941474",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Magistas",
+      "cor": "#941474",
+      "link_extra": {
+        "text": "Os Magos da nova era",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Madame Blavatsky - A Voz da Teosofia",
+          "url": "https://www.youtube.com/watch?v=Ps0Oo4II77Q"
+        },
+        {
+          "titulo": "Aleister Crowley, a História do Homem Mais Perverso do Mundo",
+          "url": "https://www.youtube.com/watch?v=URsr5Owr1fM"
+        },
+        {
+          "titulo": "O Mistério do Conde de Saint Germain",
+          "url": "https://www.youtube.com/watch?v=wQOy0DsiV9s"
+        },
+        {
+          "titulo": "Papus: Mago, Ocultista e Iniciador",
+          "url": "https://www.youtube.com/watch?v=QiiCfMEuNUI"
+        },
+        {
+          "titulo": "Eliphas Levi e o Despertar dos Magos",
+          "url": "https://www.youtube.com/watch?v=cOc-lCf2ZQU"
+        }
+      ]
+    },
+    {
+      "titulo": "Magia Prática",
+      "cor": "#941474",
+      "link_extra": {
+        "text": "O que é Magia e como conduzi-la",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Magia do Caos ✴",
+          "url": "https://www.youtube.com/watch?v=H1xjXKw36DQ"
+        },
+        {
+          "titulo": "Teoria das cordas | Astronomia #9",
+          "url": "https://www.youtube.com/watch?v=sYPkIWeEYtk"
+        },
+        {
+          "titulo": "Os 4 Elementos no Esoterismo e no Ocultismo",
+          "url": "https://www.youtube.com/watch?v=CwP-tzI62NM"
+        },
+        {
+          "titulo": "Alquimia: Tradição Secreta do Ocidente",
+          "url": "https://www.youtube.com/watch?v=jROP5nuVO4k"
+        },
+        {
+          "titulo": "O Pentagrama Esotérico",
+          "url": "https://www.youtube.com/watch?v=J7tEtrNJn4E"
+        }
+      ]
+    }
+  ]
+}
